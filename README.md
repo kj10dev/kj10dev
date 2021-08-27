@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kj10dev
 - 👀 I’m interested in Blockchain, Web-development & Android App development
-- 🌱 I’m currently learning Android & Javascript
+- 🌱 I’m currently learning Android development with Java & Javascript
 - 💞️ I’m looking to collaborate on small projects for any industry
 - 📫 How to reach me kj10dev@gmail.com
 
