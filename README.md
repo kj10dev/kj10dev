@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kj10dev
 - 👀 I’m an aspiring Blockchain, Web & Android App developer
-- 🌱 I’m currently learning C++, Kotlin and Python while completing a degree in Computer Science
+- 🌱 I’m currently learning C++, Kotlin and Python
 - 💞️ I’m looking to collaborate on small projects for any industry
 - 📫 How to reach me kj10dev@gmail.com
 
