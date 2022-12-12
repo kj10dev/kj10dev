@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kj10dev
+- 👋 Hi, I’m Kojo Ahyia-Osae
 - 👀 I’m an aspiring Blockchain, Web & Android App developer
 - 🌱 I’m currently learning C++, Kotlin and Python
 - 💞️ I’m looking to collaborate on small projects for any industry
